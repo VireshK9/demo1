@@ -1,0 +1,25 @@
+#divMain{
+    display: flex;
+}
+#divMain>#div1>div{
+    margin-top: 100px;
+    width: 400px;
+    height: 200px;
+    background-color: dodgerblue;
+    text-align: center;
+}
+h1{
+    margin-top: 120px;
+}
+
+#divMain>#div1>.img1{
+    position: absolute;
+    margin: 0;
+    margin-left: 62.5px;
+}
+
+#divMain>#div2>div{
+    width: 400px;
+    height: 200px;
+    background-color: dodgerblue;
+}
